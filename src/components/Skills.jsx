@@ -6,6 +6,11 @@ const SKILLS = [
   { name: "JavaScript", pct: 90 },
   { name: "React", pct: 92 },
   { name: "Node.js", pct: 85 },
+  { name: "tailwind css", pct: 85 },
+  { name: "DSA", pct: 90 },
+  { name: "Mongodb", pct: 85 },
+    { name: "sql", pct: 85 },
+  
 ];
 
 function Circle({ pct }) {
